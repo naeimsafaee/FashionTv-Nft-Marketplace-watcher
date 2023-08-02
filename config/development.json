@@ -1,0 +1,20 @@
+{
+	"databases": {
+		"mongodb": "mongodb://ftvUser:CnLJCFmmB4jq4e9C@18.157.159.49:27017/ftvmarket"
+	},
+	"contracts": {
+		"ethErc721": "0xdb9746ad3394b7462f3d9b400b89549e4860c22d",
+		"ethExchange": "0x1f534d2b1ee2933f1fdf8e4b63a44b2249d77eaf",
+		"polygonErc721": "0x8a24a3e81dbeb441966395d57a206d8466526758",
+		"polygonExchange": "0x4fb72262344034e034fce3d9c701fd9213a55260",
+		"ethereumWeth": "0xc778417e063141139fce010982780140aa0cd5ab",
+		"polygonWeth": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+		"bsc": "0x4fa5274963960AB581064F265B0060bE76d8Bc99",
+		"diamondBsc": "0x9aaaf043398081F1Ca67ADB26365d2c8E2d1fD06"
+	},
+	"providers": {
+		"ethereum": "wss://ropsten.infura.io/ws/v3/0ef2239a520747438505be8d628ec1fb",
+		"polygon": "wss://apis.ankr.com/wss/2f8f8562b0434267a24c93a95eb17e5e/c8c4b6ce308a519d551e867e50bd08c6/polygon/full/test",
+		"bsc" : "wss://bsc-testnet.nodereal.io/ws/v1/243fe7551f6c471fa4c57e154eaec7a3"
+	}
+}

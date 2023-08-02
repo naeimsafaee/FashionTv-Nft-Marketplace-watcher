@@ -1,0 +1,13 @@
+{
+	"databases": {
+		"mongodb": "mongodb+srv://ftvmarket:ynARz0thplH2OF6B@ftvmarket.k0ihw.mongodb.net/ftvio?retryWrites=true&w=majority"
+	},
+	"providers": {
+		"ethereum": "https://eth-mainnet.alchemyapi.io/v2/9460U1tzhGfs5qLRIl7G7alQlZu0qB2J",
+		"polygon": "https://polygon-mainnet.g.alchemy.com/v2/WN3YA02WcBqRSVnmA8DnbLa663l8CE-E",
+		"bsc" : "wss://bsc-mainnet.nodereal.io/ws/v1/758fdad3e3d543a3b225e36610e98cd0"
+	},
+	"contracts": {
+		"bsc": "0xdfe447d25aa7132a10553afe4e97807d8a504e93"
+	}
+}
